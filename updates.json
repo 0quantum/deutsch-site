@@ -1,0 +1,18 @@
+{
+  "deutsch": {
+    "1.2.0": {
+      "uk": [
+        "Новий головний екран і розділ «Ви»: усе важливе — на одному екрані. Пройдіть короткий тур.",
+        "Інтенсив: нові режими «Фрази» й «Граматика» та список «Мої слова інтенсиву».",
+        "«Коротко»: просте правило-підказка над поясненням, а ще власні нотатки до слів.",
+        "Власні колоди: додавайте свої слова або імпортуйте цілий список."
+      ],
+      "en": [
+        "A new Home and You: everything that matters on one screen. Take the short tour.",
+        "Intensive: new Phrases and Grammar modes, and the “My intensive words” list.",
+        "“In short”: a rule of thumb above each explanation, plus your own notes on words.",
+        "Your own decks: add your own words or import a whole list."
+      ]
+    }
+  }
+}
